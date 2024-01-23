@@ -4,7 +4,7 @@ This repository contains the code for a session-based authentication system usin
 
 ## Blog Post
 
-For a detailed explanation of the concepts, user flows, and key implementation details, check out my blog post: [Implementing Session-Based Authentication with NestJS, Next.js 14, Firebase, and MongoDB]([https://www.tuncpolat.dev/implementing-session-based-authentication-with-nestjs-nextjs14-firebase-mongodb](https://www.tuncpolat.dev/blog/implementing-session-based-authentication-with-nestjs-nextjs14-firebase-mongodb)).
+For a detailed explanation of the concepts, user flows, and key implementation details, check out my blog post: [Implementing Session-Based Authentication with NestJS, Next.js 14, Firebase, and MongoDB](https://www.tuncpolat.dev/blog/implementing-session-based-authentication-with-nestjs-nextjs14-firebase-mongodb).
 
 ## Getting Started
 
